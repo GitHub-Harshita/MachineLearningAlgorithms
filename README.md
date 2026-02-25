@@ -16,8 +16,8 @@ Rather than building heavy production pipelines, this work focuses on:
 ## 📂 Repository Structure
 
 ### 🔹 Linear & Logistic Regression  
-📄 `Linear_&_Logistic_Regression.ipynb`
-
+[📄 `Linear_&_Logistic_Regression.ipynb`
+]([url](https://github.com/GitHub-Harshita/MachineLearningAlgorithms/blob/main/Linear_%26_Logistic_Regression.ipynb))
 **Current coverage:**
 - Linear Regression basic implementation  
 - Logistic Regression intuition  
